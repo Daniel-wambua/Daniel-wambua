@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/0acc44ac-7e46-4a92-9639-dc6ca20501cf
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,html,css,linux,py,kali,obsidian,vim,swift,javascript,laravel" />
+    <img src="https://skillicons.dev/icons?i=bash,html,css,linux,py,kali,obsidian,vim,swift,javascript,laravel,typescript,docker,aws," />
   </a>
 </p>
 
