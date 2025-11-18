@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/0acc44ac-7e46-4a92-9639-dc6ca20501cf
 - ⚡ Fun fact **TO BE HONEST ,,BITVERSE IS SAFE**
 
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NsMGJoZWdlZmZuOHQ4aWNqeWU5NGRxZWUwNmpkdjRkN3g2enhlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWpiVIOGXT5l9m/giphy.gif">
+<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NsMGJoZWdlZmZuOHQ4aWNqeWU5NGRxZWUwNmpkdjRkN3g2enhlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWpiVIOGXT5l9m/giphy.gif">
 
 
 
