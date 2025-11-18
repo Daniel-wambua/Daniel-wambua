@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/0acc44ac-7e46-4a92-9639-dc6ca20501cf
 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-wambua&theme=tokyonight&hide_border=true)](https://git.io/streak-stats" /><br><img src="https://github-readme-stats.vercel.app/api?username=Daniel-wambua&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" /><br><img src="https://github-profile-trophy.vercel.app/?username=Daniel-wambua&theme=darkhub&no-frame=true&column=7" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-wambua&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=10" /><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-wambua&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-wambua&theme=tokyonight&hide_border=true" /><br><img src="https://github-readme-stats.vercel.app/api?username=Daniel-wambua&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" /><br><img src="https://github-profile-trophy.vercel.app/?username=Daniel-wambua&theme=darkhub&no-frame=true&column=7" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-wambua&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=10" /><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-wambua&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" /></p>
 
 
 
@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/0acc44ac-7e46-4a92-9639-dc6ca20501cf
   <a href="www.linkedin.com/in/daniel-wambua-a312b32b8">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linktree-URL">
+  <a href="https://linktree.havocsec.me">
     <img src="https://img.shields.io/badge/linktree-green?style=for-the-badge&logo=youtube&logoColor=white" alt="linktree Badge"/>
   </a>
   <a href="your-twitter-URL">
