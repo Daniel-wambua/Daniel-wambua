@@ -4,13 +4,10 @@
 </h1>
 
 
-<p align="center">
-  <video width="60%" autoplay loop muted playsinline>
-    <source src="https://github.com/user-attachments/assets/0acc44ac-7e46-4a92-9639-dc6ca20501cf" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
 
+  https://github.com/user-attachments/assets/0acc44ac-7e46-4a92-9639-dc6ca20501cf
+   
+ 
 
 
 
