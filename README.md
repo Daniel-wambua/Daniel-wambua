@@ -19,8 +19,8 @@ https://github.com/user-attachments/assets/0acc44ac-7e46-4a92-9639-dc6ca20501cf
 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-wambua&theme=tokyonight&hide_border=true&border_radius=10" /><br><img src="https://github-readme-stats.vercel.app/api?username=Daniel-wambua&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" /><br><img src="https://github-profile-trophy.vercel.app/?username=Daniel-wambua&theme=darkhub&no-frame=true&column=7" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-wambua&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=10" /><br>  /></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniel-wambua&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-wambua&theme=tokyonight&hide_border=true&border_radius=10" /><br><img src="https://github-readme-stats.vercel.app/api?username=Daniel-wambua&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" /><br><img src="https://github-profile-trophy.vercel.app/?username=Daniel-wambua&theme=darkhub&no-frame=true&column=7" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-wambua&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=10" /><br><img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniel-wambua&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></p>
+
 
 
 
