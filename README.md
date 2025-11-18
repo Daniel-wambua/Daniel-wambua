@@ -15,7 +15,11 @@ https://github.com/user-attachments/assets/0acc44ac-7e46-4a92-9639-dc6ca20501cf
 - ⚡ Fun fact **TO BE HONEST ,,BITVERSE IS SAFE**
 
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NsMGJoZWdlZmZuOHQ4aWNqeWU5NGRxZWUwNmpkdjRkN3g2enhlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWpiVIOGXT5l9m/giphy.gif
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NsMGJoZWdlZmZuOHQ4aWNqeWU5NGRxZWUwNmpkdjRkN3g2enhlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWpiVIOGXT5l9m/giphy.gif" alt="GIF" />
+  <br>
+  <em>control is an illusion</em>
+</div>
 
 
 
