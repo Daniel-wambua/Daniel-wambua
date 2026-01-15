@@ -16,8 +16,41 @@
 
 - ⚡ Fun fact **TO BE HONEST ,,BITVERSE IS SAFE**
 
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel-wambua&theme=tokyonight&hide_border=true" /><br><img src="https://github-readme-stats.vercel.app/api?username=Daniel-wambua&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" /><br><img src="https://github-profile-trophy.vercel.app/?username=Daniel-wambua&theme=darkhub&no-frame=true&column=7" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-wambua&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=10" /><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-wambua&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" /></p>
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Daniel-wambua's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Daniel-wambua&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel-wambua's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Daniel-wambua&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel-wambua's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Daniel-wambua&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-wambua&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
 
 
 
