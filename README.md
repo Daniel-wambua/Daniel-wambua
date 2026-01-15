@@ -103,7 +103,7 @@ Pinned repositories = work I stand behind.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-wambua&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-wambua&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
 </p>
 
 ---
