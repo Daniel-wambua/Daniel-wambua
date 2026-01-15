@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **TO BE HONEST ,,BITVERSE IS SAFE**
 
-<details> 
+
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -27,7 +27,6 @@
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Daniel-wambua's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Daniel-wambua&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -40,16 +39,8 @@
 
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-wambua&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 
 
