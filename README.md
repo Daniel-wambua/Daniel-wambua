@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daniel-wambua&style=for-the-badge&color=00FF00&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
+</p>
+
 ## 👋 About
 
 I'm  a Security-focused student working hands-on with **bug bounty programs, CTFs, and OSINT investigations**.
