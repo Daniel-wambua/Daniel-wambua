@@ -118,9 +118,9 @@ Pinned repositories = work I stand behind.
   <a href="https://www.linkedin.com/in/daniel-wambua-a312b32b8">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://linktree.havocsec.me">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black"/>
-  </a>
+ <a href="https://guns.lol/0xhavoc">
+    <img src="https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logo=target&logoColor=white"/>
+</a>
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
